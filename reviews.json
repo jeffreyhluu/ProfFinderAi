@@ -1,0 +1,202 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof. Laura Davis",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Very knowledgeable and provides practical examples. Sometimes the pace of the course is a bit fast."
+    },
+    {
+      "professor": "Dr. Emily Roberts",
+      "subject": "Computer Science",
+      "stars": 4.5,
+      "review": "Excellent at explaining complex algorithms with real-world applications. Engaging lectures."
+    },
+    {
+      "professor": "Prof. Brian Wilson",
+      "subject": "Computer Science",
+      "stars": 3.5,
+      "review": "Good grasp of theoretical concepts but occasionally disorganized. Useful course materials."
+    },
+    {
+      "professor": "Prof. Michael Smith",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Very approachable and provides clear explanations. However, his lectures can sometimes be a bit disorganized."
+    },
+    {
+      "professor": "Dr. Karen Lee",
+      "subject": "Mathematics",
+      "stars": 4.2,
+      "review": "Engaging teaching style with lots of real-world examples. Homework can be challenging."
+    },
+    {
+      "professor": "Prof. David Clark",
+      "subject": "Mathematics",
+      "stars": 3.8,
+      "review": "Good at covering material but can be difficult to reach outside of class."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Incredibly knowledgeable and explains complex concepts with ease. Enthusiastic and engaging."
+    },
+    {
+      "professor": "Prof. John Adams",
+      "subject": "Physics",
+      "stars": 4.5,
+      "review": "Excellent at demonstrating physical principles. His labs are very informative."
+    },
+    {
+      "professor": "Dr. Lisa Brown",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Clear explanations and thorough understanding of subject matter. Can be a bit strict with grading."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Good researcher but teaching style is rather dry. Sometimes difficult to follow."
+    },
+    {
+      "professor": "Prof. James Parker",
+      "subject": "Biology",
+      "stars": 3.5,
+      "review": "Knowledgeable and covers material thoroughly, though lectures could be more engaging."
+    },
+    {
+      "professor": "Dr. Maria Rodriguez",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Passionate about the subject and very approachable. Makes complex topics more understandable."
+    },
+    {
+      "professor": "Prof. Robert Brown",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Makes chemistry fun and engaging. His lab sessions are very hands-on and informative."
+    },
+    {
+      "professor": "Dr. Anna White",
+      "subject": "Chemistry",
+      "stars": 4.5,
+      "review": "Excellent at explaining chemical reactions and theories. Provides lots of practical examples."
+    },
+    {
+      "professor": "Prof. Mike Davis",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Good at covering the basics but could improve on interactive teaching methods."
+    },
+    {
+      "professor": "Dr. Jessica White",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Passionate about literature and encourages deep analysis. Constructive feedback on papers."
+    },
+    {
+      "professor": "Prof. Linda Green",
+      "subject": "English Literature",
+      "stars": 4.2,
+      "review": "Excellent at contextualizing texts. Engaging discussions and detailed feedback."
+    },
+    {
+      "professor": "Dr. Edward Clark",
+      "subject": "English Literature",
+      "stars": 3.8,
+      "review": "Knowledgeable but lectures can sometimes be lengthy and verbose."
+    },
+    {
+      "professor": "Prof. David Green",
+      "subject": "History",
+      "stars": 2,
+      "review": "Lectures are often monotonous and he seems unprepared. Needs improvement in teaching."
+    },
+    {
+      "professor": "Dr. Karen Brooks",
+      "subject": "History",
+      "stars": 3.5,
+      "review": "Good at presenting historical facts but lectures can be dry. Interesting subject matter."
+    },
+    {
+      "professor": "Prof. Michael Harris",
+      "subject": "History",
+      "stars": 4,
+      "review": "Engaging and provides a lot of context. His enthusiasm makes the subject more interesting."
+    },
+    {
+      "professor": "Dr. Maria Martinez",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Covers basics well but lectures lack depth. Could use more critical discussion."
+    },
+    {
+      "professor": "Prof. John Nelson",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Great at relating theoretical concepts to real-world issues. Engaging class discussions."
+    },
+    {
+      "professor": "Dr. Lisa Adams",
+      "subject": "Sociology",
+      "stars": 3.5,
+      "review": "Knowledgeable but lectures can sometimes be less interactive."
+    },
+    {
+      "professor": "Dr. Angela Clark",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Encourages critical thinking and debate. Classes are thought-provoking and well-structured."
+    },
+    {
+      "professor": "Prof. John Turner",
+      "subject": "Philosophy",
+      "stars": 4.5,
+      "review": "Excellent at discussing complex philosophical issues. Stimulating and engaging lectures."
+    },
+    {
+      "professor": "Dr. Emily Scott",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Good at explaining philosophical concepts. Lectures are insightful but can be dense."
+    },
+    {
+      "professor": "Prof. Daniel Lewis",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Very practical and hands-on. Real-world engineering problems are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Emma King",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Fantastic at making complex engineering concepts understandable. Her enthusiasm and support are greatly appreciated."
+    },
+    {
+      "professor": "Prof. Alex Johnson",
+      "subject": "Engineering",
+      "stars": 4.2,
+      "review": "Knowledgeable with a strong focus on practical applications. Engaging lectures and hands-on projects."
+    },
+    {
+      "professor": "Dr. Natalie Wright",
+      "subject": "Medicine",
+      "stars": 5,
+      "review": "Exceptional professor who combines clinical experience with theoretical knowledge. Her classes are incredibly valuable."
+    },
+    {
+      "professor": "Prof. James Adams",
+      "subject": "Medicine",
+      "stars": 4.5,
+      "review": "Very knowledgeable and provides in-depth clinical training. Great at bridging theory with practice."
+    },
+    {
+      "professor": "Dr. Linda Martinez",
+      "subject": "Medicine",
+      "stars": 4,
+      "review": "Well-organized and informative. Her classes are challenging but very rewarding."
+    }
+  ]
+}
